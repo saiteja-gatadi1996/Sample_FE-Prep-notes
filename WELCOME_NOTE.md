@@ -1,0 +1,6 @@
+- ### Thank you <ins>for purchasing the content</ins> and believing it will make a change in your career.
+- ### This is the SAMPLE Content only of my notes, so you cannot expect every topic or every question is here.
+- ### These <ins>are the same notes that helped me</ins> earn `1.8 lakh(s)` rupees per month as of today after earning `24,000` per month for the first `3.5 years` of my career.
+- ### I have <ins>already started my interview preparation</ins> journey for a `45LPA` position. Stay tuned for the content that I will upload on a regular basis.
+- ### My `humble` request for each and everyone <ins>is to add a testimonial (aka review of this purchase)</ins>. 
+- ### You can find that in the <ins>topmate email you received post purchase</ins>.
