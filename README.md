@@ -46,6 +46,8 @@
 
 -------
 
+## THESE ARE JUST SAMPLE NOTES. These notes doesn't contain everything.
+
 ## Whatever notes you see as of today are more than enough to crack <ins>25 to 30 LPA</ins>.
 
 ## Whatever notes you see as `pending` (Ex: coding patterns folder, machine coding tsx, tsx with test cases), <ins>is my ongoing preparation for a 45 LPA job.</ins> 
