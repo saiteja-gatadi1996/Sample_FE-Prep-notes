@@ -181,35 +181,4 @@ inner func:  self.foo = bar
 
 ---
 
-#### 15. Discuss possible ways to write a function isInteger(x) that determines if x is an integer.?
-
-<details>
-<summary>View Answer</summary>
-
-```js
-function isInteger(x) {
-  return Number.isInteger(x)
-}
-```
-
-```js
-// realtime example
-function addToCart(item, quantity) {
-  if (!Number.isInteger(quantity)) {
-    console.error('Invalid quantity. Please enter a whole number.')
-    return
-  }
-
-  // If valid, proceed to add the item to the cart
-  // ... rest of the code ...
-}
-
-// Usage
-addToCart('laptop', 2) // Valid
-addToCart('shoe', 3.7) // Invalid quantity. Please enter a whole number.
-addToCart('book', 2.0) // Valid, because 2.0 is equivalent to 2 in JavaScript
-```
-
-</details>
-
----
+# <--- SAMPLE CONTENT ENDS --->
